@@ -2,4 +2,4 @@
 
 - [1. RHCSA root 비밀번호 초기화 및 비정상적인 부팅 시 해결방법](https://github.com/yeomyaloo/RHCSA/issues/1)
 - [2. RHCSA Network 및 hostname 설정 방법](https://github.com/yeomyaloo/RHCSA/issues/2)
-- [3. Repository 설정 방법](https://github.com/yeomyaloo/RHCSA/issues/3)
+- [3. RHCSA Repository 설정 방법](https://github.com/yeomyaloo/RHCSA/issues/3)
