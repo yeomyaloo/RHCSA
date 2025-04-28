@@ -1,6 +1,16 @@
 # RHCSA 학습공간
-
+## 정리본
 - [1. RHCSA root 비밀번호 초기화 및 비정상적인 부팅 시 해결방법](https://github.com/yeomyaloo/RHCSA/issues/1)
+  - 시험 시작 시 root 계정과 관련해 세가지의 시나리오가 주어진다. 어떠한 시나리오가 있으며 이를 어떻게 해결하여야 하는지 살펴보자 
 - [2. RHCSA Network 및 hostname 설정 방법](https://github.com/yeomyaloo/RHCSA/issues/2)
+  - cli와 ui를 통해서 네트워크를 설정하는 방법을 알아보자.
+  - 또한 호스트네임을 변경하는 방법과 그를 확인하는 명령어를 통해 원하는대로 잘 설정 됐는지 살펴보자. 
 - [3. RHCSA Repository 설정 방법(수동 설정)](https://github.com/yeomyaloo/RHCSA/issues/3)
+  - 패키지 관리자(yum, dnf 등) 명령어를 이용해서 레포지토리 관련 설정을 수동으로 진행하는 방법을 알아보자.
 - [4. RHCSA 레포지토리 설정(DNF를 이용한 자동 설정 방법)](https://github.com/yeomyaloo/RHCSA/issues/4)
+  - dnf config-manager --add-repo 명령어를 이용해 자동으로 레포지토리 관련 설정을 진행하는 방법을 알아보자.
+  - 또한 추가적으로 gpgcheck 설정을 추가해보자
+  - [레드햇 공식 문서 - DNF 레포지토리 추가](https://docs.redhat.com/ko/documentation/red_hat_enterprise_linux/9/html/managing_software_with_the_dnf_tool/proc_adding-a-yum-repository_assembly_managing-custom-software-repositories)
+- [5. RHCSA 그룹 및 계정 설정](https://github.com/yeomyaloo/RHCSA/issues/5)
+  - 그룹 생성 및 계정 생성 파일 생성과 관련한 작업을 명령어로 진행하는 방법을 알아보자.
+  - 생성된 그룹, 계정, 파일 등의 권한 관리를 진행해보자 
