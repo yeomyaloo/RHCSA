@@ -14,3 +14,6 @@
 - [5. RHCSA 그룹 및 계정 설정](https://github.com/yeomyaloo/RHCSA/issues/5)
   - 그룹 생성 및 계정 생성 파일 생성과 관련한 작업을 명령어로 진행하는 방법을 알아보자.
   - 생성된 그룹, 계정, 파일 등의 권한 관리를 진행해보자 
+- [6. RHCSA 자동스케쥴링 (cron)](https://github.com/yeomyaloo/RHCSA/issues/6)
+  - 자동 스케쥴링 설정 방법 및 확인 방법을 알아보자.
+  - 크론 표현법은 어떻게 표현하는지 알아보자 
