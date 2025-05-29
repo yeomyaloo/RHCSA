@@ -12,6 +12,7 @@
   - 또한 추가적으로 gpgcheck 설정을 추가해보자
   - [레드햇 공식 문서 - DNF 레포지토리 추가](https://docs.redhat.com/ko/documentation/red_hat_enterprise_linux/9/html/managing_software_with_the_dnf_tool/proc_adding-a-yum-repository_assembly_managing-custom-software-repositories)
 - [5. RHCSA 그룹 및 계정 설정](https://github.com/yeomyaloo/RHCSA/issues/5)
+  - [5.1 Access Control List(ACL)](https://github.com/yeomyaloo/RHCSA/issues/9) 
   - 그룹 생성 및 계정 생성 파일 생성과 관련한 작업을 명령어로 진행하는 방법을 알아보자.
   - 생성된 그룹, 계정, 파일 등의 권한 관리를 진행해보자 
 - [6. RHCSA 자동스케쥴링 (cron)](https://github.com/yeomyaloo/RHCSA/issues/6)
