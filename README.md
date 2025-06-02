@@ -19,4 +19,5 @@
   - 자동 스케쥴링 설정 방법 및 확인 방법을 알아보자.
   - 크론 표현법은 어떻게 표현하는지 알아보자 
 - [7. SELinux 잠깐 정리 ](https://github.com/yeomyaloo/RHCSA/issues/7)
-  - 위의 정리본을 확인하여 selinux가 무엇인지를 알아보고 아래 링크를 통해 문제 해결방법을 살펴보자 
+  - 위의 정리본을 확인하여 selinux가 무엇인지를 알아보고 아래 링크를 통해 문제 해결방법을 살펴보자
+  - [7.2.1 SELinux와 관련하여 발생항 이슈 트러블슈팅](https://github.com/yeomyaloo/RHCSA/issues/10)
