@@ -25,3 +25,4 @@
   - LVM 이전의 디스크 파티셔닝과 마운트 방법을 알아보자
 - [9. LVM(Logical Volume Manager)](https://github.com/yeomyaloo/RHCSA/issues/12)
   - LVM을 도입하여 저장 공간을 효율적이고 유연하게 관리하는 방법을 알아보자
+  - [LVM 관련 공부를 진행하며 모호했던 것을 다시 정리](https://github.com/yeomyaloo/RHCSA/issues/13)
