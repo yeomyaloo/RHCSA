@@ -28,3 +28,5 @@
   - [LVM 관련 공부를 진행하며 모호했던 것을 다시 정리](https://github.com/yeomyaloo/RHCSA/issues/13)
   - [stratis 관련 정리](https://github.com/yeomyaloo/RHCSA/issues/14)
     - stratis는 LVM과 같이 LVM과 Stratis는 둘 다 Linux에서의 스토리지 관리를 쉽게 해주는 계층적 시스템입니다. 두 기술 모두 디스크를 논리적으로 구성하고 관리할 수 있도록 도와주지만, 작동 방식과 목적, 설계 철학에서 차이가 있습니다. 
+- [10. NFS(Network File System)](https://github.com/yeomyaloo/RHCSA/issues/16)
+  - NFS를 이용해서 공유자원을 만들고 허용된 권한의 클라이언트가 이를 통해 공유 자원을 효율적으로 관리할수 있게 하는 NFS 서버 설정, 클라이언트 설정 사용방법을 알아보자  
